@@ -17,13 +17,11 @@
 
 [2](#2) <a name='i2'></a>. 브레인 스토밍
 
- [2.1](#2.1) <a name='i2.1'></a>. 관련 이미지 & 동영상
+ [2.1](#2.1) <a name='i2.1'></a>. 대표 이미지
 
- [2.2](#2.2) <a name='i2.2'></a>. 대표 이미지
+ [2.2](#2.2) <a name='i2.2'></a>. 컨셉 & 대표이미지 기반 작품묘사
 
- [2.3](#2.3) <a name='i2.3'></a>. 컨셉 & 대표이미지 기반 작품묘사
-
- [2.4](#2.4) <a name='i2.4'></a>. <게임제목> 구성 요소
+ [2.3](#2.3) <a name='i2.3'></a>. <게임제목> 구성 요소
 
 [3](#3) <a name='i3'></a>. 게임 구성
 
@@ -63,66 +61,70 @@
 ### [1.2.1](#i1.2.1) <a name='1.2.1'></a>. 서브 컨셉 1 : 액션. 쏘고 부수고 파괴한다
 
 (둠)
+![doom_eternal_5 0](https://user-images.githubusercontent.com/91234790/139136893-50fa0d40-13c7-43ba-aefa-02812fdefc40.jpg)
 업계중 쏘고 부순다에서 가장 유명한 그 게임
-[![](./img/그림.png)](https://www.youtube.com/watch?v=72S2aAxtZOs)
 
 (시비어드 스틸)
+![severed-steel](https://user-images.githubusercontent.com/91234790/139137051-ab4aa62b-f932-4239-b322-702afc6c61bd.jpg)
 최근 출시된 PS4 게임. 쏘고 달리며 빠른 기동성을 기반으로 둔다.
 
 ### [1.2.2](#i1.2.2) <a name='1.2.2'></a>. 서브 컨셉 2 : 디에제틱 UI.
 
-(데드스페이스 사진)
+![데드스페이스_1](https://user-images.githubusercontent.com/91234790/139136688-3801f5b5-9719-424c-860a-e4028e758377.jpg)
+![데드스페이스_2](https://user-images.githubusercontent.com/91234790/139136696-06f00b06-a89f-4c36-8cec-a2d3bfd8019a.jpg)
 공포 호러 액션 게임 데드스페이스. 게임속에 녹아들은 UI로 되어 있다. 직관적이고, 언어에 관계 없게 만든다
 
 ### [1.2.3](#i1.2.3) <a name='1.2.3'></a>. 서브 컨셉 3 : 단순 그래픽. 개발 인원이 적은 만큼 단순한 그래픽으로 만든다.
 
 (TABS)
+![TABS](https://user-images.githubusercontent.com/91234790/139137161-ac69fc89-98ee-4f68-bed4-1b97a2e375a8.png)
 TABS. 간단한 그래픽과 물리엔진으로 게임의 특징을 녹여냈다.
 
 (저니)
+![journey](https://user-images.githubusercontent.com/91234790/139137282-98ac803a-0dbb-4f79-8d95-85dbc91d955e.jpg)
 저니. 적은 UI, 그리고 직관적임, 단순한 그래픽과 광원 효과 들로 최대한으로 원하는 감정을 끌어내게 만들었다.
 
 ### [1.2.4](#i1.2.4) <a name='1.2.4'></a>. 서브 컨셉 4 : 무기개조. 자유롭고 자신에게 맞는 무기를 만들 수 있다.
 
 (메트로 엑소더스)
+![metro_exodus](https://user-images.githubusercontent.com/91234790/139137397-64e2d4c1-8b81-4231-8032-c46080c92198.png)
 게임을 하며 수집한 것들을 이용한 다양한 무기들의 개조.
 
 ### [1.2.5](#i1.2.5) <a name='1.2.5'></a>. 서브 컨셉 5 : 부드러운 움직임. 생각하는데로 움직임이 되어야 한다.
 
 (다잉 라이트)
+![dying_light](https://user-images.githubusercontent.com/91234790/139137516-e3ed1b33-6085-4a94-9557-5695d08c1909.png)
 부드럽고 자연스러우며 역동적인 움직임이 있다.
 원래 점프로 닿기 어려운 그런 지역도 후한 판정으로 올라가고 내려가며 움직이기 좋게 만들것이다.
 
 <br><br>
 # [2](#i2) <a name='2'></a>. 브레인 스토밍
 
-## [2.1](#i2.1) <a name='2.1'></a>. 관련 이미지 & 동영상
+## [2.1](#i2.1) <a name='2.1'></a>. 대표 이미지
 
-- 이미지  
-  <img src="./img/관련이미지.jpg">
-- 동영상
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72S2aAxtZOs" frameborder="0" allowfullscreen></iframe>
+![image](https://user-images.githubusercontent.com/91234790/139137898-d732b5a8-2167-434e-bbd4-cd29b600f0cb.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72S2aAxtZOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=72S2aAxtZOs)
+## [2.2](#i2.2) <a name='2.2'></a>. 컨셉 & 대표이미지 기반 작품묘사
 
-<br><br>
+![image](https://user-images.githubusercontent.com/91234790/139137898-d732b5a8-2167-434e-bbd4-cd29b600f0cb.png)
+적과 화면의 상태.
+ui는 거의 최대로 줄여 전투에 몰입감을 준다.
 
-## [2.2](#i2.2) <a name='2.2'></a>. 대표 이미지
+![image](https://user-images.githubusercontent.com/91234790/139137910-06729b27-7383-4a73-bd86-fa5438154f79.png)
+적에게 타격했을때 느낌이 확 주도록 만들어야 한다.
 
-![그림](./img/그림.png)
+![image](https://user-images.githubusercontent.com/91234790/139137934-de57ee49-0afc-41a7-8715-817c0dc05c6d.png)
+근접했을때 사용 가능한 무기도 존재한다.
 
-<br><br>
+![image](https://user-images.githubusercontent.com/91234790/139137944-a625147b-b8bb-4d8b-a1ac-4be0fcc4cc77.png)
+자신의 템창을 보고 있을때에도 세상은 움직이고 있으니 주의해야 한다.
 
-## [2.3](#i2.3) <a name='2.3'></a>. 컨셉 & 대표이미지 기반 작품묘사
-
-> ### 대표이미지 기반 :
-
-> ### 컨셉 기반:
+![image](https://user-images.githubusercontent.com/91234790/139137955-201b00db-a73b-4501-a6c9-ab4429dbba95.png)
+가지고 있는 무기를 원하는대로 커스터마이징 가능하다.
 
 <br><br>
 
-## [2.4](#i2.4) <a name='2.4'></a>. <게임제목> 구성 요소
+## [2.3](#i2.3) <a name='2.3'></a>. <게임제목> 구성 요소
 
 히어로 트레인 : Train yourself
 
