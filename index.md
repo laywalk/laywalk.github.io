@@ -115,7 +115,7 @@ TABS. 간단한 그래픽과 물리엔진으로 게임의 특징을 녹여냈다
 
 ## [2.1](#i2.1) <a name='2.1'></a>. 대표 이미지
 
-![image](https://user-images.githubusercontent.com/91234790/139137898-d732b5a8-2167-434e-bbd4-cd29b600f0cb.png)
+![image](https://user-images.githubusercontent.com/91234790/139167265-41910004-8ecb-43c9-a8d7-735ebe796ef9.png)
 
 ## [2.2](#i2.2) <a name='2.2'></a>. 컨셉 & 대표이미지 기반 작품묘사
 
@@ -206,6 +206,7 @@ FPS. 가장 몰입감 있고 조작이 단순한 시점인 FPS.
 
 3
 적
+
 
 
 ## [4.2](#i4.2) <a name='4.2'></a>. 파라미터(속성)
