@@ -313,5 +313,5 @@ SP
 https://raw.githubusercontent.com/laywalk/laywalk.github.io/main/story.md
 
 
-# [6](#i6) <a name='6'></a>. 게임 파일 링크와 홍보 PPT
-https://drive.google.com/drive/folders/1Tgf2z0uT-70pX1iUw7mqi0rA2Jpi0-vW?usp=sharing
+# [6](#i6) <a name='6'></a>. 발표자료 PPT와 게임 파일 링크
+[https://drive.google.com/drive/folders/1Tgf2z0uT-70pX1iUw7mqi0rA2Jpi0-vW?usp=sharing](https://drive.google.com/file/d/1xaRRlcNJBDyKrmuSVH1cNwEW4q-HjZJo/view?usp=sharing)
