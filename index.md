@@ -47,6 +47,8 @@
 
 [5](#5) <a name='i5'></a>. 게임시나리오 & 스토리보드
 
+[6] 게
+
 
 # [1](#i1) <a name='1'></a>. 컨셉
 
@@ -309,3 +311,7 @@ SP
 
 # [5](#i5) <a name='5'></a>. 게임시나리오 & 스토리보드
 https://raw.githubusercontent.com/laywalk/laywalk.github.io/main/story.md
+
+
+# [6](#i6) <a name='6'></a>. 게임 파일 링크와 홍보 PPT
+https://drive.google.com/drive/folders/1Tgf2z0uT-70pX1iUw7mqi0rA2Jpi0-vW?usp=sharing
